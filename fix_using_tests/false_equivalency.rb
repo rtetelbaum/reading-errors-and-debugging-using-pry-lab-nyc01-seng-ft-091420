@@ -24,4 +24,3 @@ def runner
 end
 
 selection(1)
-selection(2)
