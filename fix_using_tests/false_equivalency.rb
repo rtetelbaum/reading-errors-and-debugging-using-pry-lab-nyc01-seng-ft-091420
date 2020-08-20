@@ -1,5 +1,7 @@
 require 'pry'
 
+num = 2
+
 def get_user_input
   gets.chomp
 end
