@@ -23,4 +23,5 @@ def runner
   selection(get_user_input)
 end
 
-selection
+selection(1)
+selection(2)
